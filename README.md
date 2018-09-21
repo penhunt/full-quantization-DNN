@@ -1,1 +1,1 @@
-# Blended gradient descent for full quantization of DNN
+# Blended gradient coarse descent for full quantization
