@@ -1,1 +1,1 @@
-# Blended gradient coarse descent for full quantization
+# Blended coarse gradient descent for full quantization
