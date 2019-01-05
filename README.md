@@ -4,6 +4,8 @@ To run the demo:
 ```
 python main_cifar.py --method bc --rho 1e-5
 ```
+i.e., blending parameter = 1e-5
+
 References:
 ```
 @article{yin2018blended,
