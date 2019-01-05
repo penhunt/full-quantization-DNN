@@ -2,7 +2,7 @@
 
 This repository implements Blended Coarse Gradient Descent in the paper "Blended coarse gradient descent for full quantization of deep neural networks".
 
-## References:
+## References
 ```
 @article{yin2018blended,
   title={Blended coarse gradient descent for full quantization of deep neural networks},
@@ -22,7 +22,7 @@ url={https://openreview.net/forum?id=Skh4jRcKQ},
 }
 ```
 
-## Run the demo:
+## Run the demo
 ```
 python main_cifar.py --method bc --rho 1e-5
 ```
