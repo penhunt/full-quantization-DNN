@@ -1,12 +1,8 @@
 # Blended coarse gradient descent for full quantization
 
-To run the demo:
-```
-python main_cifar.py --method bc --rho 1e-5
-```
-i.e., blending parameter = 1e-5
+This repository implements Blended Coarse Gradient Descent in the paper "Blended coarse gradient descent for full quantization of deep neural networks".
 
-References:
+## References:
 ```
 @article{yin2018blended,
   title={Blended coarse gradient descent for full quantization of deep neural networks},
@@ -25,3 +21,9 @@ year={2019},
 url={https://openreview.net/forum?id=Skh4jRcKQ},
 }
 ```
+
+## Run the demo:
+```
+python main_cifar.py --method bc --rho 1e-5
+```
+i.e., blending parameter = 1e-5
