@@ -4,6 +4,10 @@ This repository implements Blended Coarse Gradient Descent in the paper "Blended
 
 ![With and Without Blending](https://github.com/penhunt/full-quantization-DNN/blob/master/resnet18_4a1w_top1.png?raw=true)
 
+<p align="center">
+  <img src="https://github.com/penhunt/full-quantization-DNN/blob/master/resnet18_4a1w_top1.png" width="350" alt="accessibility text">
+</p>
+
 ## References
 ```
 @article{yin2018blended,
