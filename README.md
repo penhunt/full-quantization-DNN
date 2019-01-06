@@ -2,10 +2,6 @@
 
 This repository implements Blended Coarse Gradient Descent in the paper "Blended coarse gradient descent for full quantization of deep neural networks".
 
-<p align="center">
-  <img src="https://github.com/penhunt/full-quantization-DNN/blob/master/resnet18_4a1w_top1.png" width="600">
-</p>
-
 ## References
 ```
 @article{yin2018blended,
