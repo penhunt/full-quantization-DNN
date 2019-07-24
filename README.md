@@ -23,6 +23,8 @@ url={https://openreview.net/forum?id=Skh4jRcKQ},
 ```
 
 ## Run the demo
+Python 3
+Pytorch >= 0.2.0
 ```
 python main_cifar.py --method bc --rho 1e-5
 ```
